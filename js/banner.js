@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Calculate countdown to a specific date (example: June 30, 2024)
-    const targetDate = new Date('June 30, 2024 00:00:00').getTime();
+    const targetDate = new Date('2025-11-29 00:00:00').getTime();
     
     // Initialize countdown timer variable before it's used
     let countdownTimer;
